@@ -1,0 +1,27 @@
+{
+  "name": "helping",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Yandall",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.5",
+    "vue-paginate": "^3.6.0",
+    "vue-plain-pagination": "^0.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.7"
+  },
+  "description": "```bash\r # install dependencies\r $ npm install",
+  "main": "nuxt.config.js",
+  "license": "ISC"
+}
